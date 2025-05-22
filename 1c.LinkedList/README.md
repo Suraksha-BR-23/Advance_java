@@ -1,1 +1,5 @@
-
+[1c1.DisplayWithPositions o/p]->(https://github.com/Suraksha-BR-23/Advance_java/blob/main/1c.LinkedList/DisplayWithPositions.png)
+[1c2. InsertAtEnd o/p]->(https://github.com/Suraksha-BR-23/Advance_java/blob/main/1c.LinkedList/InsertAtEnd.png)
+[1c3. IterateFromSecond o/p]->(https://github.com/Suraksha-BR-23/Advance_java/blob/main/1c.LinkedList/1c.IterateFromSecond.png)
+[1c4.ReverseIteration o/p]->(https://github.com/Suraksha-BR-23/Advance_java/blob/main/1c.LinkedList/1c.ReverseIteration%20.png)
+[1c5. SwapElements o/p]->(https://github.com/Suraksha-BR-23/Advance_java/blob/main/1c.LinkedList/1c.SwapElements.png)
