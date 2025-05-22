@@ -1,0 +1,4 @@
+.metadata/ 
+*.log 
+*.bak 
+*.tmp 
